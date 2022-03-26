@@ -11,3 +11,5 @@ Projetar e Integrar o eixo Z em uma placa laser.
 2. Rayamme Kelly Marcelino Barros Elias
 
 Nesse projeto, fizemos um logo da equipe para a base, que está gravada nela.
+
+Link da apresentação no Youtube: https://youtu.be/9FvLe5jC-yE
